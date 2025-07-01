@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=TyenW&theme=tokyonight)
+  <img src="https://streak-stats.demolab.com/?user=TyenW&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 
