@@ -143,15 +143,73 @@
 
 <div align="center">
 
-```text
-Java            ████████████████████  90%
-HTML/CSS        ███████████████████   85%
-JavaScript      ██████████████████    80%
-C/C++           ████████████████      75%
-PostgreSQL      ███████████████       70%
-Redes           ████████████████████  90%
-Suporte Técnico ████████████████████  95%
-```
+<!-- Gráfico de Progresso de Habilidades em HTML + CSS puro -->
+
+<table style="width: 100%; max-width: 600px;">
+    <tr>
+        <td align="left" width="150"><strong>Java</strong></td>
+        <td>
+            <div style="background: #eee; border-radius: 8px; width: 100%; height: 22px;">
+                <div style="background: linear-gradient(90deg, #667eea 60%, #764ba2 100%); width: 90%; height: 22px; border-radius: 8px;"></div>
+            </div>
+        </td>
+        <td width="40" align="right"><strong>90%</strong></td>
+    </tr>
+    <tr>
+        <td align="left"><strong>HTML/CSS</strong></td>
+        <td>
+            <div style="background: #eee; border-radius: 8px; width: 100%; height: 22px;">
+                <div style="background: linear-gradient(90deg, #f093fb 60%, #f5576c 100%); width: 85%; height: 22px; border-radius: 8px;"></div>
+            </div>
+        </td>
+        <td align="right"><strong>85%</strong></td>
+    </tr>
+    <tr>
+        <td align="left"><strong>JavaScript</strong></td>
+        <td>
+            <div style="background: #eee; border-radius: 8px; width: 100%; height: 22px;">
+                <div style="background: linear-gradient(90deg, #f7971e 60%, #ffd200 100%); width: 80%; height: 22px; border-radius: 8px;"></div>
+            </div>
+        </td>
+        <td align="right"><strong>80%</strong></td>
+    </tr>
+    <tr>
+        <td align="left"><strong>C/C++</strong></td>
+        <td>
+            <div style="background: #eee; border-radius: 8px; width: 100%; height: 22px;">
+                <div style="background: linear-gradient(90deg, #00599C 60%, #00c6ff 100%); width: 75%; height: 22px; border-radius: 8px;"></div>
+            </div>
+        </td>
+        <td align="right"><strong>75%</strong></td>
+    </tr>
+    <tr>
+        <td align="left"><strong>PostgreSQL</strong></td>
+        <td>
+            <div style="background: #eee; border-radius: 8px; width: 100%; height: 22px;">
+                <div style="background: linear-gradient(90deg, #316192 60%, #43cea2 100%); width: 60%; height: 22px; border-radius: 8px;"></div>
+            </div>
+        </td>
+        <td align="right"><strong>60%</strong></td>
+    </tr>
+    <tr>
+        <td align="left"><strong>Redes</strong></td>
+        <td>
+            <div style="background: #eee; border-radius: 8px; width: 100%; height: 22px;">
+                <div style="background: linear-gradient(90deg, #4285F4 60%, #34e89e 100%); width: 30%; height: 22px; border-radius: 8px;"></div>
+            </div>
+        </td>
+        <td align="right"><strong>30%</strong></td>
+    </tr>
+    <tr>
+        <td align="left"><strong>Suporte Técnico</strong></td>
+        <td>
+            <div style="background: #eee; border-radius: 8px; width: 100%; height: 22px;">
+                <div style="background: linear-gradient(90deg, #00b09b 60%, #96c93d 100%); width: 95%; height: 22px; border-radius: 8px;"></div>
+            </div>
+        </td>
+        <td align="right"><strong>95%</strong></td>
+    </tr>
+</table>
 
 </div>
 
