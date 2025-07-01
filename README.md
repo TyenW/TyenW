@@ -143,28 +143,85 @@
 
 <div align="center">
 
-<!-- Gráfico de Progresso de Habilidades em Barra (Markdown puro + Shields.io) -->
+<!-- Gráfico de Progresso de Habilidades em Barra (HTML + CSS inline) -->
 
-**Progresso de Habilidades**
+<div align="center">
 
-| ![Java](https://img.shields.io/badge/Java-90%25-764ba2?style=flat-square) | ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-85%25-f5576c?style=flat-square) | ![JavaScript](https://img.shields.io/badge/JavaScript-80%25-ffd200?style=flat-square) |
-|:---:|:---:|:---:|
-| ![C/C++](https://img.shields.io/badge/C%2FC++-75%25-00c6ff?style=flat-square) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-60%25-43cea2?style=flat-square) | ![Redes](https://img.shields.io/badge/Redes-30%25-34e89e?style=flat-square) |
-| ![Suporte Técnico](https://img.shields.io/badge/Suporte%20Técnico-95%25-96c93d?style=flat-square) |  |  |
+### **Progresso de Habilidades**
 
-<!-- Gráfico de barras horizontal usando blocos Unicode -->
+<style>
+.skill-bar-container {
+    width: 350px;
+    margin: 10px auto;
+    text-align: left;
+}
+.skill-label {
+    font-weight: bold;
+    margin-bottom: 2px;
+    color: #333;
+}
+.skill-bar-bg {
+    background: #eee;
+    border-radius: 8px;
+    height: 22px;
+    width: 100%;
+    margin-bottom: 12px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px #0001;
+}
+.skill-bar-fill {
+    height: 100%;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-size: 14px;
+    padding-left: 10px;
+    font-weight: 500;
+}
+</style>
 
-```
-Java           ██████████████████████████████████████████████████████████████████████████████████████████████████ 90%
-HTML/CSS       ████████████████████████████████████████████████████████████████████████████████████████████      85%
-JavaScript     ███████████████████████████████████████████████████████████████████████████████████████           80%
-C/C++          ████████████████████████████████████████████████████████████████████████████                      75%
-PostgreSQL     ██████████████████████████████████████████████████████                                             60%
-Redes          ██████████████                                                                                     30%
-Suporte Técnico███████████████████████████████████████████████████████████████████████████████████████████████████ 95%
-```
+<div class="skill-bar-container">
+    <div class="skill-label">Java <span style="float:right;">90%</span></div>
+    <div class="skill-bar-bg">
+        <div class="skill-bar-fill" style="width: 90%; background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);"> </div>
+    </div>
+
+    <div class="skill-label">HTML/CSS <span style="float:right;">85%</span></div>
+    <div class="skill-bar-bg">
+        <div class="skill-bar-fill" style="width: 85%; background: linear-gradient(90deg, #f093fb 0%, #f5576c 100%);"> </div>
+    </div>
+
+    <div class="skill-label">JavaScript <span style="float:right;">80%</span></div>
+    <div class="skill-bar-bg">
+        <div class="skill-bar-fill" style="width: 80%; background: linear-gradient(90deg, #ffd200 0%, #f7971e 100%); color: #333;"> </div>
+    </div>
+
+    <div class="skill-label">C/C++ <span style="float:right;">75%</span></div>
+    <div class="skill-bar-bg">
+        <div class="skill-bar-fill" style="width: 75%; background: linear-gradient(90deg, #00c6ff 0%, #0072ff 100%);"> </div>
+    </div>
+
+    <div class="skill-label">PostgreSQL <span style="float:right;">60%</span></div>
+    <div class="skill-bar-bg">
+        <div class="skill-bar-fill" style="width: 60%; background: linear-gradient(90deg, #43cea2 0%, #185a9d 100%);"> </div>
+    </div>
+
+    <div class="skill-label">Redes <span style="float:right;">30%</span></div>
+    <div class="skill-bar-bg">
+        <div class="skill-bar-fill" style="width: 30%; background: linear-gradient(90deg, #34e89e 0%, #0f3443 100%);"> </div>
+    </div>
+
+    <div class="skill-label">Suporte Técnico <span style="float:right;">95%</span></div>
+    <div class="skill-bar-bg">
+        <div class="skill-bar-fill" style="width: 95%; background: linear-gradient(90deg, #96c93d 0%, #00b09b 100%);"> </div>
+    </div>
+</div>
 
 </div>
+
+> **Obs.:** O gráfico utiliza HTML e CSS inline para visualização estilizada. O efeito visual pode não aparecer em todos os visualizadores de Markdown (funciona melhor no GitHub Profile README ou plataformas que suportam HTML/CSS).
+
 
 ---
 
