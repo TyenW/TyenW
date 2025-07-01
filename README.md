@@ -48,7 +48,7 @@
 
 **🏛️ PUC Minas – Praça da Liberdade**
 - 📚 **Bacharelado em Ciências da Computação**
-- 📅 **Período:** Jan/2023 - Dez/2027 *(cursando)*
+- 📅 **Ano de entrada:** 2023 *(em andamento)*
 - 🎯 **Foco:** Programação, análise de sistemas e pesquisa aplicada
 - 💼 **Experiência:** Suporte técnico, auxílio em aulas de programação
 
@@ -79,6 +79,7 @@
 - 🌐 **Manutenção de infraestrutura** de rede (cabeamento e configuração)
 - ⚙️ **Planejamento e execução** de instalações de sistemas escaláveis
 - 👥 **Treinamento de usuários** e suporte a eventos internos
+- 🤖 **Automatização de processos** e otimização de fluxos de trabalho
 - 📋 **Participação ativa** em projetos e organização de processos de TI
 
 </div>
@@ -100,7 +101,6 @@
 ### **🗄️ Banco de Dados & Ferramentas**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16?style=for-the-badge&logo=eclipse&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
@@ -117,22 +117,23 @@
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white;">
-  <h3>🎓 EstudaAí</h3>
-  <p>Plataforma de apoio a estudos com foco em organização e produtividade estudantil</p>
-  <strong>Tecnologias:</strong> Java, HTML, CSS
+  <h3>🎓 Estuda.AI - Plataforma de Estudos para ENEM</h3>
+  <p>Site educacional desenvolvido para auxiliar estudantes na preparação para o ENEM e vestibulares, oferecendo ferramentas de estudo organizadas e métodos de aprendizado otimizados para maximizar o desempenho acadêmico.</p>
+  <strong>Equipe:</strong> Ana Clara Iannini, Pedro Guimarães, Pedro Heinrich, Luís Santiago<br>
+  <strong>Orientação:</strong> Prof. Rommel Vieira Carneiro, Prof.ª Luciana Mara Freitas Diniz<br>
+  <strong>Tecnologias:</strong> Java, HTML, CSS<br>
+  <strong>Status:</strong> Em desenvolvimento - Primeira versão em breve
 </div>
 
 <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; color: white;">
-  <h3>📊 Projeto SAP</h3>
-  <p>Sistema voltado à gestão e produtividade pessoal com interface intuitiva</p>
-  <strong>Tecnologias:</strong> HTML, CSS, JavaScript
+  <h3>🎮 SapMan - Emulador SAP-1 Interativo</h3>
+  <p>Emulador web educacional do processador SAP-1 com estética retro Pac-Man. Interface visual interativa para aprendizado de arquitetura de computadores com animações em tempo real, sistema de quiz adaptativo e material didático completo.</p>
+  <strong>Funcionalidades:</strong> Emulação completa SAP-1, execução passo-a-passo, importação CSV/TXT, quiz educativo<br>
+  <strong>Tecnologias:</strong> HTML5, CSS3, JavaScript ES6+, Chart.js
+  <br><a href="https://youtu.be/EplJ32BYQ0o" style="color: #FFE4E1; text-decoration: underline;">📺 Vídeo Demonstrativo</a>
 </div>
 
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; color: white;">
-  <h3>🍽️ Filtro de Restaurantes</h3>
-  <p>Sistema colaborativo de filtragem de restaurantes (Projeto PUC Minas)</p>
-  <strong>Tecnologias:</strong> JavaScript, HTML, CSS
-</div>
+
 
 </div>
 
