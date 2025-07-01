@@ -143,111 +143,17 @@
 
 <div align="center">
 
-<!-- Gráfico de Progresso de Habilidades em Barra (HTML + CSS inline) -->
+```text
+Java            ████████████████████  90%
+HTML/CSS        ███████████████████   85%
+JavaScript      ██████████████████    80%
+C/C++           ████████████████      75%
+PostgreSQL      ███████████████       70%
+Redes           ████████████████████  90%
+Suporte Técnico ████████████████████  95%
+```
 
-
-<style>
-.skill-bar-container {
-    width: 350px;
-    margin: 10px auto;
-    text-align: left;
-}
-.skill-label {
-    font-weight: bold;
-    margin-bottom: 2px;
-    color: #333;
-}
-.skill-bar-bg {
-    background: #eee;
-    border-radius: 8px;
-    height: 22px;
-    width: 100%;
-    margin-bottom: 12px;
-    overflow: hidden;
-    box-shadow: 0 1px 3px #0001;
-}
-.skill-bar-fill {
-    height: 100%;
-    border-radius: 8px;
-    display: flex;
-    align-items: center;
-    color: #fff;
-    font-size: 14px;
-    padding-left: 10px;
-    font-weight: 500;
-}
-</style>
-
-<!-- Gráfico de Progresso de Habilidades em Barra (HTML puro, compatível com GitHub) -->
-
-<table>
-    <tr>
-        <td><strong>Java</strong></td>
-        <td width="250">
-            <div style="background: #eee; border-radius: 8px; width: 100%; height: 18px;">
-                <div style="background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); width: 90%; height: 18px; border-radius: 8px;"></div>
-            </div>
-        </td>
-        <td><strong>90%</strong></td>
-    </tr>
-    <tr>
-        <td><strong>HTML/CSS</strong></td>
-        <td>
-            <div style="background: #eee; border-radius: 8px; width: 100%; height: 18px;">
-                <div style="background: linear-gradient(90deg, #f093fb 0%, #f5576c 100%); width: 85%; height: 18px; border-radius: 8px;"></div>
-            </div>
-        </td>
-        <td><strong>85%</strong></td>
-    </tr>
-    <tr>
-        <td><strong>JavaScript</strong></td>
-        <td>
-            <div style="background: #eee; border-radius: 8px; width: 100%; height: 18px;">
-                <div style="background: linear-gradient(90deg, #ffd200 0%, #f7971e 100%); width: 80%; height: 18px; border-radius: 8px;"></div>
-            </div>
-        </td>
-        <td><strong>80%</strong></td>
-    </tr>
-    <tr>
-        <td><strong>C/C++</strong></td>
-        <td>
-            <div style="background: #eee; border-radius: 8px; width: 100%; height: 18px;">
-                <div style="background: linear-gradient(90deg, #00c6ff 0%, #0072ff 100%); width: 75%; height: 18px; border-radius: 8px;"></div>
-            </div>
-        </td>
-        <td><strong>75%</strong></td>
-    </tr>
-    <tr>
-        <td><strong>PostgreSQL</strong></td>
-        <td>
-            <div style="background: #eee; border-radius: 8px; width: 100%; height: 18px;">
-                <div style="background: linear-gradient(90deg, #43cea2 0%, #185a9d 100%); width: 60%; height: 18px; border-radius: 8px;"></div>
-            </div>
-        </td>
-        <td><strong>60%</strong></td>
-    </tr>
-    <tr>
-        <td><strong>Redes</strong></td>
-        <td>
-            <div style="background: #eee; border-radius: 8px; width: 100%; height: 18px;">
-                <div style="background: linear-gradient(90deg, #34e89e 0%, #0f3443 100%); width: 30%; height: 18px; border-radius: 8px;"></div>
-            </div>
-        </td>
-        <td><strong>30%</strong></td>
-    </tr>
-    <tr>
-        <td><strong>Suporte Técnico</strong></td>
-        <td>
-            <div style="background: #eee; border-radius: 8px; width: 100%; height: 18px;">
-                <div style="background: linear-gradient(90deg, #96c93d 0%, #00b09b 100%); width: 95%; height: 18px; border-radius: 8px;"></div>
-            </div>
-        </td>
-        <td><strong>95%</strong></td>
-    </tr>
-</table>
-
-> **Obs.:** O gráfico utiliza HTML e CSS inline para visualização estilizada. O efeito visual pode não aparecer em todos os visualizadores de Markdown (funciona melhor no GitHub Profile README ou plataformas que suportam HTML/CSS).
-
+</div>
 
 ---
 
